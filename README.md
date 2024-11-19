@@ -33,4 +33,18 @@ for idx in range(len(column_list), len(axes)):
 plt.tight_layout(rect=[0, 0, 1, 0.96])
 plt.show()
 ```
-!['Control vs Test group feature presentation](
+!['Control vs Test group feature presentation](https://github.com/zyesnazarov/A-B_testing_marketing/blob/c67807cdfe65dff0d73e1b980f02b65727616d8f/Images/Features_boxplots.png)
+
+
+!['Control campaign heatmap](https://github.com/zyesnazarov/A-B_testing_marketing/blob/c67807cdfe65dff0d73e1b980f02b65727616d8f/Images/Heatmap_control.png)
+
+!['Test campaign heatmap](https://github.com/zyesnazarov/A-B_testing_marketing/blob/c67807cdfe65dff0d73e1b980f02b65727616d8f/Images/Heatmap_test.png)
+
+### Features histplot
+
+!['Features histplot'](https://github.com/zyesnazarov/A-B_testing_marketing/blob/c67807cdfe65dff0d73e1b980f02b65727616d8f/Images/Features_histplot.png)
+
+
+### Key insights
+- The control campaign has a higher density peak around 5% CTR, indicating that most data points for the control campaign are centered around this value. On the other hand, the test campaign has a broader distribution with a peak around 7% CTR, suggesting a wider range of CTR values but with a tendency towards higher CTR.
+- The control campaign shows a higher density peak around 0.5% CR, which suggests that most CR values are concentrated around this point. Conversely, the test campaign displays a broader distribution with a peak around 1% CR, indicating more variation but generally higher conversion rates.

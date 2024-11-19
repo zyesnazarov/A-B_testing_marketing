@@ -6,7 +6,9 @@ Welcome to the repository for the A/B Testing of  marketing campaigns. This proj
 
 A/B testing is a powerful method for making data-driven decisions, as it allows us to understand the impact of different variables on user behavior and campaign outcomes.
 
-In the notebook you'll find detailed insights and analyses based on key performance metrics. By systematically comparing these metrics between the Control and Test campaigns, the test aims to identify the most effective marketing strategies for maximizing user engagement and conversion (two designed key KPIs)
+In the notebook you'll find detailed insights and analyses based on key performance metrics. 
+
+Please see below selective visualizations from the analysis. Further graphs are presented in the file.
 
 ## Visualizations
 ### Code
